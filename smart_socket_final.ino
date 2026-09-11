@@ -1,9 +1,7 @@
 /*
  * ================================================================
  *  NEXALWARE — Smart Socket Firmware  v3.0  (ESP32 Production)
- *  Author : Adeyemo Dare Timileyin (2021/1/79709CM)
- *  FUT Minna — Telecommunications Engineering
- *  Matric No: 2021/1/79709CM
+ *  Author : Adeyemo Dare Timileyin
  * ================================================================
  *
  *  HARDWARE:
@@ -18,15 +16,15 @@
  *              Blue   (Relay)  GPIO 18 — mirrors relay state
  *
  *  NEXALWARE DEVICE CREDENTIALS:
- *    Device ID : nxw_dev_an1d1uzqhw34
- *    MQTT Host : mqtt.nexalware.com
+ *    Device ID : ""
+ *    MQTT Host : ""
  *    MQTT Port : 1883
- *    Username  : d_014d684797af997e
- *    Password  : dp_xYs1oy2Y1SolnKVJZ834Pn1DjBbbv9Hr
+ *    Username  : ""
+ *    Password  : ""
  *
  *  WIFI:
- *    SSID     : nexalware
- *    Password : nexalware
+ *    SSID     : ""
+ *    Password : ""
  *
  *  LIBRARIES REQUIRED:
  *    - PubSubClient  v2.8   (Nick O'Leary)
