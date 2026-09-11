@@ -159,7 +159,3 @@ Not yet implemented:
 - TLS on the MQTT connection
 
 ---
-
-## Licence
-
-MIT. See [LICENSE](LICENSE).
